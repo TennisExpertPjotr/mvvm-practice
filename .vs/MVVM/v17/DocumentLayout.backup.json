@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A38565-3F33-4221-9919-505B5C9239C4}|MVVM\\MVVM.csproj|c:\\users\\admin\\source\\repos\\mvvm\\mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0A38565-3F33-4221-9919-505B5C9239C4}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A38565-3F33-4221-9919-505B5C9239C4}|MVVM\\MVVM.csproj|c:\\users\\admin\\source\\repos\\mvvm\\mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A38565-3F33-4221-9919-505B5C9239C4}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A38565-3F33-4221-9919-505B5C9239C4}|MVVM\\MVVM.csproj|c:\\users\\admin\\source\\repos\\mvvm\\mvvm\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A38565-3F33-4221-9919-505B5C9239C4}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A38565-3F33-4221-9919-505B5C9239C4}|MVVM\\MVVM.csproj|c:\\users\\admin\\source\\repos\\mvvm\\mvvm\\applicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A38565-3F33-4221-9919-505B5C9239C4}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\applicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MVVM\\MVVM\\ApplicationViewModel.cs",
+              "RelativeDocumentMoniker": "MVVM\\ApplicationViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MVVM\\MVVM\\ApplicationViewModel.cs",
+              "RelativeToolTip": "MVVM\\ApplicationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:15:08.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MVVM\\MVVM\\Client.cs",
+              "RelativeDocumentMoniker": "MVVM\\Client.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MVVM\\MVVM\\Client.cs",
+              "RelativeToolTip": "MVVM\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:12:50.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MVVM\\MVVM\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MVVM\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MVVM\\MVVM\\MainWindow.xaml",
+              "RelativeToolTip": "MVVM\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-05T11:53:16.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MVVM\\MVVM\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MVVM\\MVVM\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MVVM\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:53:16.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
